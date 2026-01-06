@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="trainees.xsl"?>
+<trainees>
+
+
+<trainee>
+<name>B</name>
+<email>b@email.com</email>
+<workshop>Software</workshop>
+</trainee>
+
+<trainee>
+<name>C</name>
+<email>c@email.com</email>
+<workshop>IT</workshop>
+</trainee>
+<trainee><name>جمهورية الصين الشعبية </name><email>Jomanaalwan4@gmail.com</email><workshop>Ai</workshop></trainee></trainees>
